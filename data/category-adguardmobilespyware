@@ -5,7 +5,6 @@
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
 # Last converted - Fri, 06 May 2022 23:07:24 +0100
 #
-
 adeventtracker.spotify.com
 do-not-tracker.org
 eviltracker.net

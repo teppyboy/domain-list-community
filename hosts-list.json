@@ -8,5 +8,10 @@
         "name": "hostsVN",
         "hosts": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
         "type": "url"
+    },
+    {
+        "name": "pgl-blocklist",
+        "hosts": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0",
+        "type": "url"
     }
 ]
