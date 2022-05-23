@@ -9,7 +9,7 @@ function processHosts(content) {
         if (v.startsWith("0.0.0.0") || v.startsWith("127.0.0.1")) {
             v = v.split(" ")[1];
         }
-        else if ((!v.startsWith("#") && v.length > 0) || v.length == 0) {
+        else if (!v.startsWith("#") && v.length > 0) {
             continue;
         }
         str += v + "\n";

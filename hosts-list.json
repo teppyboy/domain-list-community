@@ -11,7 +11,12 @@
     },
     {
         "name": "pgl-blocklist",
-        "hosts": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0",
+        "hosts": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+        "type": "url"
+    },
+    {
+        "name": "StevenBlack-hosts",
+        "hosts": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
         "type": "url"
     }
 ]
