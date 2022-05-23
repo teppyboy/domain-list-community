@@ -3,7 +3,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 16 May 2022 19:54:09 +0100
+# Last converted - Mon, 23 May 2022 20:03:37 +0100
 #
 
 a-reporting.nytimes.com
@@ -104,6 +104,7 @@ collect.alipay.com
 collect.f5.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
+collector.github.com
 collector.githubapp.com
 collector.megaxh.com
 collector.pi.spectrum.net
@@ -544,6 +545,21 @@ xstats.evoload.io
 z.cdp-dev.cnn.com
 zap.dw-world.de
 zion-telemetry.api.cnn.io
+track.opentable.ae
+track.opentable.ca
+track.opentable.co.th
+track.opentable.co.uk
+track.opentable.com.au
+track.opentable.com.mx
+track.opentable.com
+track.opentable.de
+track.opentable.es
+track.opentable.hk
+track.opentable.ie
+track.opentable.it
+track.opentable.jp
+track.opentable.nl
+track.opentable.sg
 substation.confection.io
 gj.mmstat.com
 oneid.mmstat.com

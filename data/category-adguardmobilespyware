@@ -3,7 +3,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 06 May 2022 23:07:24 +0100
+# Last converted - Mon, 23 May 2022 20:03:35 +0100
 #
 
 adeventtracker.spotify.com
@@ -71,6 +71,11 @@ int.vaicore.xyz
 int.vlancaa.site
 int.vlancaa.fun
 tok.vaicore.xyz
+stats.fifthstarlabs.io
+collector.doordash.com
+events.iap.unity3d.com
+mobilelog.ws.pho.to
+etl.tindersparks.com
 tags.creditkarma.com
 track.extra.app
 vgs-collect-keeper.apps.verygood.systems
