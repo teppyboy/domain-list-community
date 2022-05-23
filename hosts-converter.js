@@ -73,6 +73,10 @@ function readConfig(configFile) {
 
 function main() {
     const config = readConfig("hosts-list.json");
+    if (config == null) {
+        console.error("Quittng due to config file not available.");
+        return;
+    }
     for (let [_, v] of config.entries()) {
         console.log(`Converting hosts ${v.name} (type "${v.type}")`);
         switch(v.type) {
