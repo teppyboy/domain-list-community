@@ -1,0 +1,12 @@
+[
+    {
+        "name": "r-a-y/mobile-hosts",
+        "hosts": "mobile-hosts",
+        "type": "dir"
+    },
+    {
+        "name": "hostsVN",
+        "hosts": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
+        "type": "url"
+    }
+]
