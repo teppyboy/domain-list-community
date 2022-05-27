@@ -18,5 +18,10 @@
         "name": "StevenBlack-hosts",
         "hosts": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
         "type": "url"
+    },
+    {
+        "name": "AdAway",
+        "hosts": "https://adaway.org/hosts.txt",
+        "type": "url"
     }
 ]
